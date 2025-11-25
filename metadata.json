@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Search Companion",
+  "description": "An intelligent search interface powered by Gemini 2.5 Flash and Google Search Grounding to provide real-time, cited answers.",
+  "requestFramePermissions": []
+}
